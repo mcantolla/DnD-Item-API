@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+img {
+    height: 64px;
+}
+
+.buscador {
+    display: flex;
+    justify-content: center;
+    padding: 1.5em;
+}
+
+.tabla {
+    margin: 0 auto;
+}
